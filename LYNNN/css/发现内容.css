@@ -1,0 +1,45 @@
+.faxianneirong {
+	flex-grow: 1;
+	border: 1px black solid;
+	display: flex;
+	overflow: scroll;
+	flex-flow: column;
+	background-color: lightgrey;
+}
+
+.jinru {
+	height: 10%;
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+	text-indent: 20px;
+	background-color: white;
+	margin-top: 20px;
+}
+
+.pengyou {
+	text-indent: 20px;
+	font-size: x-large;
+}
+
+a {
+	text-decoration: none;
+}
+
+.mokuai {
+	height: 120px;
+	width: 100%;
+	display: flex;
+	flex-flow: column;
+	margin-top: 20px;
+	background-color: white;
+}
+
+.mokuai1 {
+	height: 50%;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	flex-flow: row;
+	text-indent: 20px;
+}

@@ -1,0 +1,103 @@
+.zhuti {
+	flex:1 grow;
+	border: 1px black solid;
+	display: flex;
+	overflow: scroll;
+	flex-flow: column;
+}
+
+.liaotian {
+	height: 60px;
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+	background-color:white;
+}
+
+.l1 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+
+.l2 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l3 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l4 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l5 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l6 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l7 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l8 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.l9 {
+	height: 60px;
+	width: 10%;
+	text-indent: 20px;
+	display: flex;
+}
+
+.m1 {
+	height: 42px;
+	width: 75%;
+	display: flex;
+	flex-flow: column;
+}
+
+.xingming1 {
+	height: 20px;
+	width: 100%;
+	text-indent: 10px;
+}
+
+.neirong1 {
+	height: 20px;
+	width: 100%;
+	text-indent: 10px;
+}
+
+.shijian {
+	text-align: center;
+	display: flex;
+}

@@ -1,0 +1,7 @@
+.tongxunneirong{
+flex-grow: 1;
+	border: 1px black solid;
+	display: flex;
+	overflow: scroll;
+	flex-flow: column;
+}

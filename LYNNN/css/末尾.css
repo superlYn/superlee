@@ -1,0 +1,41 @@
+.mowei {
+	height: 50px;
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	text-align: center;
+	background-color: dimgray;
+}
+
+.d1 {
+	height: 48px;
+	width: 20%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.d2 {
+	height: 48px;
+	width: 20%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.d3 {
+	height: 48px;
+	width: 20%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.d4 {
+	height: 48px;
+	width: 20%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
